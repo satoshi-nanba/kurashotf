@@ -1,0 +1,28 @@
+body{
+    margin:0;
+}
+header{background: aqua;
+}
+
+.headerInner,.mainInner{
+    max-width: 800px;
+    margin: auto;
+    padding: 0 20px;
+}
+.headerInner{
+    height: 100px;
+    dispLay:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    background:rgb(0, 68, 255);
+}
+.footerInner{
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.keyVisual{
+    text-align:center;
+}
